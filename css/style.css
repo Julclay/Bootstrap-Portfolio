@@ -1,0 +1,44 @@
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+
+
+
+.jumbotron-custom{
+
+    margin-top: 50px;
+    background-image: url(../images/mountain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   
+}
+
+
+
+img{
+
+    margin-top: 50px;
+    height: 65%;
+    width: 65%;
+
+}
+
+.TitleP{
+
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+.rowjumbo{
+
+    margin-top: 70px;
+    
+   
+}
